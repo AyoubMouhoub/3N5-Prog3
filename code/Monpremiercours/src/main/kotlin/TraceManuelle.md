@@ -1,0 +1,1 @@
+Je pense que lorsque je vais exécuter le code, il affichera 1.075 suivi du mot "pif", puis un très grand nombre à virgule qui commencera par 0, suivi d'une virgule et de plusieurs chiffres. Ensuite, il y aura un saut de ligne suivi du mot "infinity", puis à nouveau la même chose que précédemment.
